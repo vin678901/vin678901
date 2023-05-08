@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+🌱안녕하세요 주니어 백엔드 개발자 박유빈 입니다. 스프링부트 JPA ORM을 이용하여 백엔드 개발을 합니다.
+
+<div align=center><h1>📚 STACKS</h1></div>
+
+<div align=center> 
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+
+  <br>
+</div>
 <!--
 **vin678901/vin678901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
